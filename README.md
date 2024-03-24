@@ -29,6 +29,11 @@ This is an Arduino project that uses an LDR sensor to detect cactuses in the pop
 
 Contributions are welcome! If you have any ideas for improvements or additions, feel free to open an issue or submit a pull request.
 
+
+## Images
+
+![Game Image](src\images\image.jpg)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
