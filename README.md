@@ -20,7 +20,7 @@ This is an Arduino project that uses an LDR sensor to detect cactuses in the pop
 
 ## Usage
 
-1. Start the "Cactus Clicker" game.
+1. Start the "Google's Dino" game.
 2. The Arduino will continuously monitor the light intensity using the LDR sensor.
 3. When a cactus is detected (darker area on the screen), the servo motor will press the spacebar automatically.
 4. Enjoy the game without having to manually click the spacebar!
