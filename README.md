@@ -1,6 +1,6 @@
-# Cactus Clicker
+# Google's Dino Game
 
-This is an Arduino project that uses an LDR sensor to detect cactuses in the popular game "Cactus Clicker" and automatically presses the spacebar using a servo motor when a cactus is detected.
+This is an Arduino project that uses an LDR sensor to detect cactuses in the popular game "Google's Dino Game" and automatically presses the spacebar using a servo motor when a cactus is detected.
 
 ## Components
 
@@ -36,4 +36,4 @@ Contributions are welcome! If you have any ideas for improvements or additions, 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
